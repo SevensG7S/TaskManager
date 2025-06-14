@@ -1,0 +1,37 @@
+{
+  "Tasks": [
+    {
+      "Id": 2,
+      "Title": "1",
+      "Description": "1",
+      "Priority": 2,
+      "Status": 1,
+      "CreatedDate": "2025-06-14T13:34:44.7694645+03:00",
+      "DueDate": null,
+      "EstimatedTime": null,
+      "ActualTime": "00:00:05.0457983",
+      "Progress": 0,
+      "Tags": []
+    }
+  ],
+  "Notes": [
+    {
+      "Id": 1,
+      "Title": "dadad",
+      "Content": "adadadd \r\nend",
+      "CreatedDate": "2025-06-14T13:35:13.8099202+03:00",
+      "ModifiedDate": "2025-06-14T13:35:33.576925+03:00",
+      "Tags": []
+    }
+  ],
+  "Pomodoro": {
+    "WorkMinutes": 25,
+    "ShortBreakMinutes": 5,
+    "LongBreakMinutes": 15,
+    "SessionsUntilLongBreak": 4,
+    "CompletedSessions": 0
+  },
+  "NextTaskId": 3,
+  "NextNoteId": 2,
+  "LastSaved": "2025-06-14T13:36:07.0733427+03:00"
+}

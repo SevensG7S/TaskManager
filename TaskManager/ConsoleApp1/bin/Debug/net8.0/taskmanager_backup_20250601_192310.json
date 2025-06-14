@@ -1,0 +1,12 @@
+{
+  "ExportDate": "2025-06-01T19:23:10.4423868+03:00",
+  "Tasks": [],
+  "Notes": [],
+  "PomodoroStats": {
+    "WorkMinutes": 5,
+    "ShortBreakMinutes": 1,
+    "LongBreakMinutes": 1,
+    "SessionsUntilLongBreak": 4,
+    "CompletedSessions": 1
+  }
+}
